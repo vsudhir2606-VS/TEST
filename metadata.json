@@ -1,0 +1,5 @@
+{
+  "name": "ProTrack Dashboard",
+  "description": "A professional production data visualization and management tool that transforms raw CSV/Excel-style data into actionable monthly insights, featuring AI-powered analysis and interactive charts.",
+  "requestFramePermissions": []
+}
